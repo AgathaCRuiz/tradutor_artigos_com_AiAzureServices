@@ -1,4 +1,4 @@
-```markdown
+
 # 📝 Tradutor de Artigos com Azure AI
 
 Este repositório contém o código e a documentação para o **Desafio de Projeto: Tradutor de Artigos Técnicos com Azure AI**, proposto pela plataforma DIO (Digital Innovation One). O projeto consiste na criação de uma camada de tradução automática para artigos técnicos, utilizando os serviços de IA da Microsoft Azure para fins educativos e de prática profissional.
